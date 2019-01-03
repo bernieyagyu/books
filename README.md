@@ -1,3 +1,3 @@
 # books
-## Algorithms Jeff Erickson
-## Computer Vision C. Rasche
+### Algorithms Jeff Erickson
+### Computer Vision C. Rasche
